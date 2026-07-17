@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # Ayad Abunab
@@ -128,10 +129,10 @@ Two Java applications demonstrating object-oriented programming and array-based 
 
 I am continuing to develop a portfolio that demonstrates:
 
-1. Strong financial reasoning  
-2. Clear and defensible recommendations  
-3. Practical coding and automation skills  
-4. Professional communication and presentation  
+1. Strong financial reasoning
+2. Clear and defensible recommendations
+3. Practical coding and automation skills
+4. Professional communication and presentation
 
 I am open to opportunities in **equity research, corporate finance, financial analysis, investment analysis, and business analytics**.
 
@@ -156,8 +157,4 @@ I am open to opportunities in **equity research, corporate finance, financial an
 [LinkedIn](https://www.linkedin.com/in/ayad-abunab/) • [GitHub](https://github.com/Ayad2077)
 
 </div>
-'''
-
-out = Path("/mnt/data/Ayad2077_Profile_README.md")
-out.write_text(readme, encoding="utf-8")
-print(out)
+```
