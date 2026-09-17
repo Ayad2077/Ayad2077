@@ -10,17 +10,25 @@ I build finance projects that combine <strong>investment analysis, business judg
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayad-abunab">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         width="22"
+         height="22"
+         alt="LinkedIn"
+         valign="middle">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ayad.abunab/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Photography">
-  </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://www.linkedin.com/in/ayad-abunab"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/ayad.abunab/">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"
+         width="22"
+         height="22"
+         alt="Instagram"
+         valign="middle">
+  </a>
+  &nbsp;
   <a href="https://www.instagram.com/ayad.abunab/"><strong>Photography</strong></a>
 </p>
 
@@ -146,13 +154,7 @@ When I'm not working with financial models or data, I'm usually behind a camera.
 
 I photograph architecture, travel, and everyday environments, with a particular interest in **night photography and visual storytelling**.
 
-<p>
-  <a href="https://www.instagram.com/ayad.abunab/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" height="22" alt="Instagram">
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ayad.abunab/"><strong>View my photography →</strong></a>
-</p>
+[📷 View my photography](https://www.instagram.com/ayad.abunab/)
 
 ---
 
