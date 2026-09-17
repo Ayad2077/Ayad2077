@@ -5,30 +5,34 @@ Finance & MIS | Equity Research • Financial Modeling • Data Analytics
 </h3>
 
 <p align="center">
-I build finance projects that combine <strong>investment analysis, business judgment, and technology</strong> — from interactive equity research to portfolio analytics.
+I build finance projects that combine <strong>investment analysis, business judgment, and technology</strong> — from equity research and valuation to portfolio analytics.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayad-abunab">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Ayad2077">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ayad.abunab/">
-    <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Photography">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Photography">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayad-abunab"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ayad.abunab/"><strong>Photography</strong></a>
 </p>
 
 ---
 
 ## About Me
 
-I am a **Finance and Management Information Systems graduate from the University of Washington Bothell** with an interest in applying financial analysis, data, and technology to real-world investment and business decisions.
+I am a **Finance and Management Information Systems graduate from the University of Washington Bothell** interested in applying financial analysis, data, and technology to investment and business decisions.
 
-My work sits at the intersection of **finance, analytics, and technology**. I enjoy taking complex financial information and turning it into structured analysis, valuation models, and interactive tools.
+My work focuses on turning complex financial information into structured analysis, valuation models, and interactive tools.
 
-My primary areas of interest include:
+My primary interests include:
 
 - Equity research and valuation
 - Private wealth and investment management
@@ -80,6 +84,8 @@ A portfolio construction and derivatives project focused on **performance, diver
 
 ## Finance Skills
 
+**Valuation & Financial Analysis**
+
 - Discounted Cash Flow (DCF)
 - Comparable Company Analysis
 - Precedent Transactions
@@ -87,12 +93,16 @@ A portfolio construction and derivatives project focused on **performance, diver
 - Financial Statement Analysis
 - Revenue & Margin Forecasting
 - Scenario & Sensitivity Analysis
+
+**Investments & Portfolio Management**
+
 - Equity Research
 - Portfolio Analysis
 - Asset Allocation
 - Risk & Return Analysis
 - Benchmark Analysis
 - Options & Futures
+- Portfolio Diversification
 
 ---
 
@@ -121,7 +131,7 @@ Bachelor of Arts in Business Administration
 I'm continuing to develop projects that combine **finance, data, and technology**, with a focus on:
 
 - Equity research and company valuation
-- Financial modeling
+- Financial modeling and forecasting
 - Portfolio and investment analysis
 - Interactive financial dashboards
 - Data-driven decision making
@@ -134,9 +144,15 @@ I'm particularly interested in opportunities across **private wealth management,
 
 When I'm not working with financial models or data, I'm usually behind a camera.
 
-I photograph architecture, travel, and everyday environments, with a particular interest in night photography and visual storytelling.
+I photograph architecture, travel, and everyday environments, with a particular interest in **night photography and visual storytelling**.
 
-📷 **[Photography Portfolio →](https://www.instagram.com/ayad.abunab/)**
+<p>
+  <a href="https://www.instagram.com/ayad.abunab/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" height="22" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ayad.abunab/"><strong>View my photography →</strong></a>
+</p>
 
 ---
 
