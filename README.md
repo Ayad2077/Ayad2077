@@ -8,29 +8,7 @@ Finance & MIS | Equity Research • Financial Modeling • Data Analytics
 I build finance projects that combine <strong>investment analysis, business judgment, and technology</strong> — from equity research and valuation to portfolio analytics.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayad-abunab">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-         width="22"
-         height="22"
-         alt="LinkedIn"
-         valign="middle">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ayad-abunab"><strong>LinkedIn</strong></a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/ayad.abunab/">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"
-         width="22"
-         height="22"
-         alt="Instagram"
-         valign="middle">
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ayad.abunab/"><strong>Photography</strong></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/ayad-abunab"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="34" height="34" alt="LinkedIn" align="center"> <strong>LinkedIn</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ayad.abunab/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="34" height="34" alt="Instagram" align="center"> <strong>Photography</strong></a></p>
 
 ---
 
@@ -92,7 +70,7 @@ A portfolio construction and derivatives project focused on **performance, diver
 
 ## Finance Skills
 
-**Valuation & Financial Analysis**
+### Valuation & Financial Analysis
 
 - Discounted Cash Flow (DCF)
 - Comparable Company Analysis
@@ -102,7 +80,7 @@ A portfolio construction and derivatives project focused on **performance, diver
 - Revenue & Margin Forecasting
 - Scenario & Sensitivity Analysis
 
-**Investments & Portfolio Management**
+### Investments & Portfolio Management
 
 - Equity Research
 - Portfolio Analysis
@@ -154,7 +132,9 @@ When I'm not working with financial models or data, I'm usually behind a camera.
 
 I photograph architecture, travel, and everyday environments, with a particular interest in **night photography and visual storytelling**.
 
-[📷 View my photography](https://www.instagram.com/ayad.abunab/)
+<p>
+<a href="https://www.instagram.com/ayad.abunab/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="24" height="24" alt="Instagram" align="center"> <strong>View my photography →</strong></a>
+</p>
 
 ---
 
