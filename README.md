@@ -1,106 +1,65 @@
-<h1 align="center">Ayad Abunab</h1>
+<div align="center">
 
-<h3 align="center">
-Finance & MIS | Equity Research • Financial Modeling • Data Analytics
-</h3>
+# Ayad Abunab
 
-<p align="center">
-I build finance projects that combine <strong>investment analysis, business judgment, and technology</strong> — from equity research and valuation to portfolio analytics.
-</p>
+### Finance & MIS | Equity Research • Financial Modeling • Data Analytics
 
-<p align="center"><a href="https://www.linkedin.com/in/ayad-abunab"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="34" height="34" alt="LinkedIn" align="center"> <strong>LinkedIn</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ayad.abunab/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="34" height="34" alt="Instagram" align="center"> <strong>Photography</strong></a></p>
+Business Administration graduate from the **University of Washington Bothell** with concentrations in **Finance** and **Management Information Systems**. I build projects that combine financial analysis, business judgment, and technology.
 
----
+[LinkedIn](https://www.linkedin.com/in/ayad-abunab) · [Photography](https://www.instagram.com/ayad.abunab/)
 
-## About Me
-
-I am a **Finance and Management Information Systems graduate from the University of Washington Bothell** interested in applying financial analysis, data, and technology to investment and business decisions.
-
-My work focuses on turning complex financial information into structured analysis, valuation models, and interactive tools.
-
-My primary interests include:
-
-- Equity research and valuation
-- Private wealth and investment management
-- Financial modeling and forecasting
-- Corporate finance and financial analysis
-- Portfolio construction and risk management
-- Data analytics and visualization
-- Business systems and process improvement
+</div>
 
 ---
 
 ## Featured Projects
 
 ### [AMD Equity Research & Valuation Dashboard](https://github.com/Ayad2077/amd-equity-dashboard)
+[**View live dashboard →**](https://ayad2077.github.io/amd-equity-dashboard/)
 
-An interactive, full-cycle equity research project analyzing AMD's financial performance, competitive position, forecasts, valuation, and investment thesis.
+Interactive equity-research project covering financial statement analysis, forecasting, DCF valuation, comparable companies, precedent transactions, scenario analysis, and strategic research.
 
-**Analysis includes:**
+**My contribution:** equity research, financial modeling, dashboard development, and project integration as part of a four-person analyst team.
 
-- Three-statement financial analysis and ratio trends
-- Revenue, margin, and segment forecasting
-- Discounted cash flow valuation
-- CAPM-based cost of equity and WACC
-- Comparable company analysis
-- Precedent transaction analysis
-- Football field valuation
-- Bear, base, and bull scenarios
-- Sensitivity analysis
-- Interactive financial visualizations
+**Tools:** HTML, CSS, JavaScript, Chart.js
 
-**Technology:** HTML, CSS, JavaScript, Chart.js
+### [University Student Lifecycle POC](https://github.com/Ayad2077/university-lifecycle-poc)
 
-**Investment conclusion:** BUY recommendation with a **$425 price target** based on the project's May 1, 2026 reference price.
+Python/Streamlit proof of concept for a student decision-support platform. The prototype uses profile data to rank universities, compare courses, track applications and deadlines, and summarize academic progress.
 
----
+**Tools:** Python, Streamlit, Pandas
 
-### Multi-Asset Portfolio Simulation
+### [MOASA Discord Mafia Bot](https://github.com/Ayad2077/MOASA-CSS360-Discord-Bot)
 
-A portfolio construction and derivatives project focused on **performance, diversification, asset allocation, and risk management**.
+Five-person software-engineering team project that turns Mafia into a stateful Discord game with role-specific actions, automated day/night phases, voting, persistent statistics, and gameplay safeguards.
 
-- Co-managed a portfolio that returned **+19.27%**, compared with **+15.01%** for the S&P 500 benchmark
-- Executed **22 trades** across equities, ETFs, options, and futures
-- Used S&P 500 and Nasdaq-100 futures to gain approximately **$2.5 million in notional exposure**
-- Analyzed portfolio concentration, leverage, volatility, correlation, and diversification
-- Evaluated options exposure including time decay and risk/reward characteristics
-- Applied portfolio and risk-management concepts to real market conditions
+**Tools:** JavaScript, Node.js, Discord.js, Docker
 
 ---
 
-## Finance Skills
+## Finance & Analytics
 
-### Valuation & Financial Analysis
+- Equity research and company valuation
+- Discounted cash flow (DCF)
+- Comparable-company and precedent-transaction analysis
+- CAPM and WACC
+- Financial statement analysis
+- Revenue and margin forecasting
+- Scenario and sensitivity analysis
+- Portfolio and risk analysis
+- Data visualization and dashboarding
 
-- Discounted Cash Flow (DCF)
-- Comparable Company Analysis
-- Precedent Transactions
-- CAPM & WACC
-- Financial Statement Analysis
-- Revenue & Margin Forecasting
-- Scenario & Sensitivity Analysis
+## Technical
 
-### Investments & Portfolio Management
-
-- Equity Research
-- Portfolio Analysis
-- Asset Allocation
-- Risk & Return Analysis
-- Benchmark Analysis
-- Options & Futures
-- Portfolio Diversification
-
----
-
-## Technical Skills
-
-- Financial Data Analysis
-- Interactive Dashboards
-- Data Visualization
-- HTML
-- CSS
+- Python
+- Pandas
+- Streamlit
 - JavaScript
+- HTML/CSS
 - Chart.js
+- Node.js
+- Git/GitHub
+- Docker
 
 ---
 
@@ -108,36 +67,10 @@ A portfolio construction and derivatives project focused on **performance, diver
 
 **University of Washington Bothell**  
 Bachelor of Arts in Business Administration  
-**Finance & Management Information Systems**
+Concentrations: **Finance & Management Information Systems**
 
 ---
 
-## What I'm Building
+## Focus
 
-I'm continuing to develop projects that combine **finance, data, and technology**, with a focus on:
-
-- Equity research and company valuation
-- Financial modeling and forecasting
-- Portfolio and investment analysis
-- Interactive financial dashboards
-- Data-driven decision making
-
-I'm particularly interested in opportunities across **private wealth management, investment analysis, corporate finance, and financial analytics**.
-
----
-
-## Outside of Finance
-
-When I'm not working with financial models or data, I'm usually behind a camera.
-
-I photograph architecture, travel, and everyday environments, with a particular interest in **night photography and visual storytelling**.
-
-<p>
-<a href="https://www.instagram.com/ayad.abunab/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="24" height="24" alt="Instagram" align="center"> <strong>View my photography →</strong></a>
-</p>
-
----
-
-<p align="center">
-<strong>Thanks for checking out my work.</strong>
-</p>
+I am interested in early-career opportunities where finance, analytics, and technology overlap, including **private wealth management, investment analysis, corporate finance, and financial analytics**.
