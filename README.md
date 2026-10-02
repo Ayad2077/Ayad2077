@@ -4,7 +4,7 @@
 
 Business Administration graduate from the **University of Washington Bothell**, with concentrations in **Finance** and **Management Information Systems**. I build projects that connect financial analysis, business decisions, and technology.
 
-[LinkedIn](https://www.linkedin.com/in/ayad-abunab) · [Live AMD dashboard](https://ayad2077.github.io/amd-equity-dashboard/)
+<p align="center"><a href="https://www.linkedin.com/in/ayad-abunab"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="34" height="34" alt="LinkedIn" align="center"> <strong>LinkedIn</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ayad.abunab/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="34" height="34" alt="Instagram" align="center"> <strong>Photography</strong></a></p>
 
 ## Selected Projects
 
@@ -46,4 +46,4 @@ Concentrations: **Finance & Management Information Systems**
 
 Interested in early-career opportunities in **private wealth management, investment analysis, corporate finance, and financial analytics**.
 
-I also enjoy [photography](https://www.instagram.com/ayad.abunab/).
+I also enjoy photography.
